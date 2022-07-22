@@ -4,7 +4,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deyvisonaugust1)
 
 <div style="display: inline_block">
-<figure><embed src="https://wakatime.com/share/@68451a19-adf2-4830-ac13-a518deee9f9c/58e65912-2030-40ee-a15e-df01e36e720d.svg"></embed></figure>
+ <img width="47%" src="https://github-readme-stats.vercel.app/api?username=deyvissonagp&show_icons=true&theme=algolia&line_height=27%22%3E
+ <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvissonagp&layout=compact&theme=algolia%22/%3E
 </div>
 
 ## Tecnologias que eu uso no meu dia
